@@ -1,6 +1,6 @@
 - Hi, I’m @NHutt28
-- I’m interested in running
-- I’m currently learning C++
+- I’m interested
+- I’m currently learning
 - Find me on email!!!
 
 <!---
